@@ -24,6 +24,7 @@ https://audioldm.github.io/audioldm2/ <br />
 
 ### 🖼 Output
 
+https://github.com/camenduru/Image2SoundFX-jupyter/assets/54370274/976fbf1d-c2cc-4697-8794-ee3745c53cff
 
 ### 🏢 Sponsor
 https://replicate.com
