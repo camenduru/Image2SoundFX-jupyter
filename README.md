@@ -14,6 +14,7 @@
 ### 🧬 Code
 https://github.com/haoheliu/audioldm2 <br />
 https://github.com/vikhyat/moondream <br />
+https://huggingface.co/spaces/fffiloni/Image2SFX-comparison/blob/main/app.py <br />
 
 ### 📄 Paper
 https://arxiv.org/abs/2308.05734 <br />
