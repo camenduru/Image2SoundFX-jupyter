@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Image2SoundFX-jupyter/blob/main/Image2SoundFX_jupyter.ipynb) | Image2SoundFX_jupyter
 
+### 📋 Tutorial
+![Screenshot 2024-02-17 194940](https://github.com/camenduru/Image2SoundFX-jupyter/assets/54370274/2c5c0acf-9098-4dde-b973-73d8bd8e6747)
+
 ### 🧬 Code
 https://github.com/haoheliu/audioldm2 <br />
 https://github.com/vikhyat/moondream <br />
